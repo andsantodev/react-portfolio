@@ -1,7 +1,7 @@
 import Contact from './Contact'
 import SocialNetworks from './SocialNetworks'
 
-import Avatar from '../img/black-panther.jpg'
+import Avatar from '../img/eu.jpg'
 
 import '../styles/components/sidebar.sass'
 
