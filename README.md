@@ -2,7 +2,7 @@
 
 Portfolio simples feito com React e SASS
 
-![image project](https://github.com/andsantodev/react-portfolio/blob/master/src/img/portfolio-react.jpg)
+![image project](https://github.com/andsantodev/react-portfolio/blob/master/src/img/portfolio-react.png)
 
 Referência: <br>
 Projeto de React e SASS para o seu portfólio <br>
